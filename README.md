@@ -1,6 +1,4 @@
-![Capsule Banner](https://capsule-render.vercel.app/api?![Capsule Banner](https://capsule-render.vercel.app/api?type=rect&height=150&color=0:748AD5,50:B2462C,100:104168&text=Hi,%20I'm%20Ivan&textBg=false&fontColor=FFFFFF&animation=fadeIn&descAlign=63&reversal=false&section=header&fontAlignY=52)
-
-
+![Capsule Banner](https://capsule-render.vercel.app/api?type=rect&height=150&color=0:748AD5,50:B2462C,100:104168&text=Hi,%20I'm%20Ivan&textBg=false&fontColor=FFFFFF&animation=fadeIn&descAlign=63&reversal=false&section=header&fontAlignY=52)
 
 # Hi, I'm Ivan 
 
