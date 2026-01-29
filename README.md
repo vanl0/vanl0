@@ -23,6 +23,8 @@ You can find my favourite projects so far in the **pinned section** of my profil
 ## Contact Me
 
 Feel free to check out my repositories and reach out for collaboration or opportunities
+
+
 <a href="mailto:ivanlorenzo278@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
