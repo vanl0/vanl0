@@ -1,4 +1,5 @@
-# Hi, I'm Ivan 👋
+<https://capsule-render.vercel.app/api?type=rect&height=150&color=timeGradient&text=Hi,%20I'm%20Ivan&textBg=false&fontColor=0000000&animation=fadeIn&descAlign=63&reversal=false&section=header&fontAlignY=52>
+# Hi, I'm Ivan 
 
 💻 Programming student passionate about low-level development, graphics, and systems.  
 🎯 Currently focused on improving my skills in C, C++ and computer graphics.  
