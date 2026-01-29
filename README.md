@@ -1,50 +1,33 @@
 ![Capsule Banner](https://capsule-render.vercel.app/api?type=rect&height=150&color=0:748AD5,50:B2462C,100:104168&text=Hi,%20I'm%20Ivan&textBg=false&fontColor=FFFFFF&animation=fadeIn&descAlign=63&reversal=false&section=header&fontAlignY=52)
 
-# Hi, I'm Ivan 
+# Hi, I'm Ivan 👋
 
-💻 Programming student passionate about low-level development, graphics, and systems.  
-🎯 Currently focused on improving my skills in C, C++ and computer graphics.  
-🚀 Always building, always learning.
+Programming student who completed the **common core at 42 Barcelona**.  
+Passionate about creating and innovating through coding.  
 
----
-
-## 🛠️ Tech I Work With
-
-- **Languages:** C, C++
-- **Graphics:** OpenGL (learning), Ray Tracing basics
-- **Tools:** Git, Docker, Linux
-- **Other:** Networking fundamentals, databases
+💡 Open to internships, full-time jobs, and any type of collaboration.  
+You can find my favourite projects so far in the **pinned section** of my profile.  
 
 ---
 
-## 📚 Current Focus
+## 🛠️ Skills & Tools
 
-- Graphics programming  
-- Rendering and math for 3D  
-- System-level thinking  
-- Writing clean and structured code  
-
----
-
-## 🔧 Projects
-
-I like working on projects that help me understand how things work under the hood:
-
-- Ray tracing engine  
-- Networking & server setups  
-- Low-level system exercises  
-- Custom implementations of standard tools  
+- **Languages:** C (strong foundation), C++, Bash, Makefile, Typescript  
+- **Dev Tools:** Docker, Git, Linux  
+- **Currently Learning:** Python, Cybersecurity  
+- **Other:** Low-level programming, problem-solving, system thinking  
 
 ---
 
-## 🌱 Mindset
+## 📚 Interests & Focus
 
-I enjoy solving problems from scratch instead of relying on black boxes.  
-Understanding *why* something works is more important to me than just making it work.
+- Building efficient and innovative software  
+- Low-level programming & system internals  
+- Networking, automation, and secure coding  
+- Learning new technologies and best practices  
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-Feel free to check out my repositories and follow my progress 🚀
-
+Feel free to check out my repositories and reach out for collaboration or opportunities 🚀
